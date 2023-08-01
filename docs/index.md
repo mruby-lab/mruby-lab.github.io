@@ -13,13 +13,6 @@
 
 ## 業績リスト
 
-## 関連団体等
-
-- [福岡県Ruby・コンテンツビジネス振興会議](https://www.digitalfukuoka.jp/?locale=ja) 理事
-- [軽量Rubyフォーラム](http://forum.mruby.org/) 理事
-- [RubyAssociation](https://www.ruby.or.jp/ja/) 理事
-- [Rubyビジネス推進協議会](https://www.ruby-b.com/) 顧問
-
 ## アクセス
 
 - [研究室へのアクセスについて紹介します](./access.md)
