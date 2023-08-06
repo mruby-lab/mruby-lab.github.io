@@ -1,4 +1,34 @@
-@book{book1,
-  author = "Kazuaki Tanaka",
-  title = "Sample paper"
+
+@inproceedings{10.1007/978-3-030-58811-3_15,
+author = {Tanaka, Kazuaki and Tsujino, Chihiro and Maeda, Hiroyuki},
+title = {IoT Software by Dataflow Programming in Mruby Programming Environment},
+year = {2020},
+isbn = {978-3-030-58810-6},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-030-58811-3_15},
+doi = {10.1007/978-3-030-58811-3_15},
+abstract = {In IoT software development, a method to implement software by focusing on data flow has been proposed, which is called dataflow programming. On the other hand, sensor devices are generally implemented in microcontrollers with limited resources for compactness, power savings and costs, so sensor devices are not suitable for executing data flow programs.In this paper, an environment running the scripting language mruby is described to execute a dataflow program on a small microcontroller. The execution of the data flow program is performed asynchronously by multiple nodes, which handle the sensor data. The execution environment of a dataflow program must support this style of execution. Since mruby can execute multiple programs concurrently, it is well suited to implement dataflow programs. By generating mruby code from a program developed in Node-RED, one of the popular dataflow programming environments, the mruby program is executed on a single-chip microcontroller, which includes mruby virtual machine.},
+booktitle = {Computational Science and Its Applications – ICCSA 2020: 20th International Conference, Cagliari, Italy, July 1–4, 2020, Proceedings, Part IV},
+pages = {212–220},
+numpages = {9},
+keywords = {Dataflow programming, Node-RED, Mruby, IoT},
+location = {Cagliari, Italy}
+}
+
+@inproceedings{10.1007/978-3-030-24302-9_29,
+author = {Maeda, Hiroyuki and Tanaka, Kazuaki},
+title = {Hardware Acceleration of Language Processing in Scripting Programming Languages},
+year = {2019},
+isbn = {978-3-030-24301-2},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-030-24302-9_29},
+doi = {10.1007/978-3-030-24302-9_29},
+abstract = {This paper describes a hardware acceleration of language processing system in scripting programming languages. Scripting programming languages are high development efficiency since which is easy to write and high source code readability. On the other hand, embedded software developments take a lot of time and the difficulty level is high. We think that it is good to use scripting programming languages in embedded software developments for the improvement of development efficiency.However, scripting programming languages require many hardware resource such memory and their execution speeds are slower than procedural languages such as C language. Therefore, we propose a hardware acceleration of language processing in scripting programming languages. Hardware acceleration technology can improve the processing performance of scripting programming languages by a pipeline processing.We focus on a scripting programming language ‘mruby/c’ for embedded software developments. We implemented the hardware which performs the memory management and the instruction decoder in mruby/c. In this paper describes results of implementation of the hardware acceleration and the performance evaluation.},
+booktitle = {Computational Science and Its Applications – ICCSA 2019: 19th International Conference, Saint Petersburg, Russia, July 1–4, 2019, Proceedings, Part III},
+pages = {407–416},
+numpages = {10},
+keywords = {Hardware acceleration, FPGA, Scripting language},
+location = {Saint Petersburg, Russia}
 }
