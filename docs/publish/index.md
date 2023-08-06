@@ -4,4 +4,6 @@
 
 <bibtex src="tanaka.bib"></bibtex>
 
-<div id="bibtex_display"></div>
+<div id="bibtex_display">
+<span class="if BIBTEXTYPEKEY==inproceedings">Article</span>
+</div>
