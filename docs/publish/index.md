@@ -9,6 +9,9 @@ Flexibility and Productivity in IoT Programming:
 A Case Study with mruby<br>
 International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability 2023 (in printing)
 
+- Kumar, A., Chakravarty, S., K, A., & Sharma, M.K. (Eds.). (2023). [5G-Based Smart Hospitals and Healthcare Systems: Evaluation, Integration, and Deployment](https://doi.org/10.1201/9781003403678) (1st ed.). <br>CRC Press. Chapter 1,8,16. https://doi.org/10.1201/9781003403678
+
+
 ## 2022
 
 - **Tanaka, K.**, Maeda, H., Yamashita, K., Liu, Y., Hazarika, H.<br>
