@@ -7,3 +7,7 @@ desc:
 
 # 研究室トップページ
 
+- [研究紹介](./research.md)
+- [論文](./papers.md)
+- [mruby/cを使ってみる](./tryout_mrubyc.md)
+
