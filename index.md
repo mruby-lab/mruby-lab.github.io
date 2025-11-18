@@ -5,9 +5,15 @@ desc:
 ---
 
 
+<font size="+2">[★EdgeTech+2025展示会出展物の紹介★](./edgetech205/README.md)</font>
+
+
 # 研究室トップページ
 
 - [研究紹介](./research.md)
-- [論文](./papers.md)
+    - [論文](./papers.md)
 - [mruby/cを使ってみる](./tryout_mrubyc.md)
+
+<hr>
+
 

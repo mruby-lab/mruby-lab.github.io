@@ -4,7 +4,6 @@
 
 - [Nucleo F401REでmruby/cを使ってみる](#nucleo-f401re)
 
-
-
 ## Nucleo F401RE
+
 
