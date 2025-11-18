@@ -5,7 +5,7 @@ desc:
 ---
 
 
-<font size="+2">[★EdgeTech+2025展示会出展物の紹介★](./edgetech205/README.md)</font>
+[★★ EdgeTech+2025展示会出展物の紹介 ★★](./edgetech205/README.md)
 
 
 # 研究室トップページ
