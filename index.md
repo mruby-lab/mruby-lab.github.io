@@ -13,6 +13,7 @@ desc:
 - [研究紹介](./research.md)
     - [論文](./papers.md)
 - [mruby/cを使ってみる](./tryout_mrubyc.md)
+- [アクセス](./lab_location.md)
 
 <hr>
 
